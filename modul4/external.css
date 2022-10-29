@@ -1,0 +1,34 @@
+#halaman { width: 800px; margin: 0 auto;
+    padding: 0 auto;
+    }
+    #judul { width: 100%; height: 100px;
+    background: #5F9EA0; margin: 0;
+    padding: 0;
+    }
+    #konten { width: 100%;
+    margin: 0;
+    padding: 0;
+    }
+    .kiri { width: 25%;
+    height: 300px; float: left; background: #ADD8E6;
+    }
+    .tengah{ width: 50%; height: 300px; float: left;
+    background: #FDF5E6;
+    }
+    .kanan{ width: 25%;
+    height: 300px; float: right; background: #ADD8E6;
+    }
+    .footer{ height: 40px;
+        background: #8FBC8F; clear: both;
+        }
+        .judul { color: Red;
+        padding: 10px 0 0 10px;
+        }
+        .sub-judul { color: #ff0;
+        padding: 0 10px 10px;
+        }
+        p {
+        padding-left: 10px;
+        }
+        
+        
